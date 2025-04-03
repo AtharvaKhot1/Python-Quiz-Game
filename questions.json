@@ -1,0 +1,68 @@
+{
+  "Python": [
+    {
+      "prompt": "Who developed the Python language?\n",
+      "answer": ["Guido van Rossum"]
+    },
+    {
+      "prompt": "What will be the output of the following code snippet? \nprint(2**3 + (5 + 6)**(1 + 1))\n",
+      "answer": ["129"]
+    },
+    {
+      "prompt": "In which language is Python written?\n",
+      "answer": ["C"]
+    },
+    {
+      "prompt": "What is the method inside the class in python language?\n",
+      "answer": ["function"]
+    },
+    {
+      "prompt": "What is the correct extension of the Python file?\n",
+      "answer": [".py"]
+    }
+  ],
+  "General Knowledge": [
+    {
+      "prompt": "What is the largest country in the world?\n",
+      "answer": ["Russia"]
+    },
+    {
+      "prompt": "Which river is the longest in the world?\n",
+      "answer": ["Nile"]
+    },
+    {
+      "prompt": "Who was the first Prime Minister of India?\n",
+      "answer": ["Jawaharlal Nehru", "Pandit Jawaharlal Nehru"]
+    },
+    {
+      "prompt": "What is the chemical symbol for gold?\n",
+      "answer": ["Au"]
+    },
+    {
+      "prompt": "What currency is used in Japan?\n",
+      "answer": ["Yen"]
+    }
+  ],
+  "Sports": [
+    {
+      "prompt": "Who is the first and currently the only batsman to score double hundreds in four consecutive test series?\n",
+      "answer": ["Virat Kohli"]
+    },
+    {
+      "prompt": "India has won the Hockey World Cup how many times?\n",
+      "answer": ["1", "one"]
+    },
+    {
+      "prompt": "Which country has won Football world Cup maximum times?\n",
+      "answer": ["Brazil"]
+    },
+    {
+      "prompt": "How many team members are there on each side of a Kabaddi match?\n",
+      "answer": ["7", "Seven"]
+    },
+    {
+      "prompt": "Which country has won the most Olympic Games gold medals?\n",
+      "answer": ["United States", "The United States", "USA", "The United States of America"]
+    }
+  ]
+}
